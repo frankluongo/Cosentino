@@ -7,7 +7,7 @@
     "colors_outline_button_labels": "#121212",
     "colors_background_1": "#FFFFFF",
     "colors_background_2": "#F3F3F3",
-    "type_header_font": "assistant_n4",
+    "type_header_font": "work_sans_n4",
     "type_body_font": "assistant_n4",
     "sections": {
       "announcement-bar": {
@@ -32,7 +32,7 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
-          "logo_width": 100,
+          "logo_width": 90,
           "logo_position": "middle-left",
           "menu": "header-menu",
           "show_line_separator": true,
