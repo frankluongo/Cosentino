@@ -861,6 +861,10 @@
         "show_line_separator": {
           "label": "Show separator line"
         },
+        "enable_fixed_header": {
+          "label": "Enable fixed header",
+          "info": "Header shows on screen at all times."
+        },
         "enable_sticky_header": {
           "label": "Enable sticky header",
           "info": "Header shows on the screen as customers scroll up."
