@@ -1,7 +1,7 @@
 {
   "current": {
     "colors_solid_button_labels": "#FFFFFF",
-    "colors_accent_1": "#121212",
+    "colors_accent_1": "#61593d",
     "colors_accent_2": "#334FB4",
     "colors_text": "#121212",
     "colors_outline_button_labels": "#121212",
@@ -9,6 +9,8 @@
     "colors_background_2": "#F3F3F3",
     "type_header_font": "work_sans_n4",
     "type_body_font": "assistant_n4",
+    "inputs_border_thickness": 0,
+    "inputs_border_opacity": 0,
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
@@ -31,11 +33,11 @@
       "header": {
         "type": "header",
         "settings": {
-          "color_scheme": "background-1",
+          "color_scheme": "inverse",
           "logo_width": 90,
           "logo_position": "middle-left",
           "menu": "header-menu",
-          "show_line_separator": true,
+          "show_line_separator": false,
           "enable_sticky_header": true,
           "margin_bottom": 0
         }
@@ -54,7 +56,7 @@
             "type": "text",
             "settings": {
               "heading": "Heading",
-              "subtext": "<p>Share store details, promotions, or brand content with your customers.</p>"
+              "subtext": "<p>Share store details, promotions, or brand content with your customers.<\/p>"
             }
           }
         },
